@@ -2,7 +2,7 @@
 id: macOS_installation_de
 title: Installation MacOS
 parent: SEB Installation
-nav_order: 2
+nav_order: 
 ---
 
 ## Installation auf MacOS

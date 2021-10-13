@@ -2,7 +2,7 @@
 id: probleme_installation_de
 title: Installation Probleme
 parent: SEB Installation
-nav_order: 3
+nav_order: 
 ---
 
 ## Installationsprobleme
