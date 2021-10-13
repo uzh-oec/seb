@@ -1,6 +1,7 @@
 ---
 id: SEB_de
 title: SEB Allgemein
+nav_order: 1
 ---
 
 ## Safe Exam Browser (SEB) 
@@ -11,7 +12,10 @@ Der SEB läuft auf einem lokalen Computer und ist über das Internet mit einem L
 
 ### SEB-Browser Komponenten
 
-Die internen Komponenten des SEB bestehen aus der Kiosk-Applikation und dem Browser. Hinzu kommt dann die Verknüpfung zur SEB-Prüfungsumgebung in das zum Einsatz kommende Lernmanagementsystem (OLAT oder Ans). Die Funktion der verschiedenen Bestandteile wird hier genauer erläutert: 
-Die Kioskapplikation sperrt den Computer und startet den SEB-Browser sowie optionale Drittanbieteranwendungen. 
-Der SEB-Browser übernimmt die Kommunikation mit dem Prüfungssystem. Dabei wird die Prüfungsseite über eine voreingestellte URL geladen und angezeigt. Zudem blendet die Browser-Komponente die Nutzung von Navigationselementen wie Adressleiste, Suchmaschinenfeld usw. aus. 
-Das Lernmanagementsystem / E-Assessmenttool (OLAT, Ans) enthält sogenannte Quizmodule, die für Online-Prüfungen genutzt werden. Somit wird die Benutzeroberfläche des LMS darauf reduziert, nur die Navigation für die Prüfung zu enthalten (keine Links zu anderen Seiten außerhalb des Quiz) und keine anderen unerwünschten Funktionen wie Messaging. 
+Die internen Komponenten des SEB bestehen aus der **Kiosk-Applikation** und dem **Browser**. Hinzu kommt dann die Verknüpfung zur SEB-Prüfungsumgebung in das zum Einsatz kommende **Lernmanagementsystem** (OLAT oder Ans). Die Funktion der verschiedenen Bestandteile wird hier genauer erläutert: 
+
+Die **Kioskapplikation** sperrt den Computer und startet den SEB-Browser sowie optionale Drittanbieteranwendungen. 
+
+Der **SEB-Browser** übernimmt die Kommunikation mit dem Prüfungssystem. Dabei wird die Prüfungsseite über eine voreingestellte URL geladen und angezeigt. Zudem blendet die Browser-Komponente die Nutzung von Navigationselementen wie Adressleiste, Suchmaschinenfeld usw. aus. 
+
+Das **Lernmanagementsystem / E-Assessmenttool (OLAT, Ans)** enthält sogenannte Quizmodule, die für Online-Prüfungen genutzt werden. Somit wird die Benutzeroberfläche des LMS darauf reduziert, nur die Navigation für die Prüfung zu enthalten (keine Links zu anderen Seiten außerhalb des Quiz) und keine anderen unerwünschten Funktionen wie Messaging. 
