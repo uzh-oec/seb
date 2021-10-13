@@ -3,6 +3,8 @@ id: SEB_Betriebssysteme
 title: Betriebssysteme
 ---
 
+## Kompatible Betriebssysteme
+
 Der SEB-Browser unterstützt sowohl Windows als auch Mac. Dabei sollte das jeweilige Betriebssystem auf dem neusten Stand sein. Nachfolgend finden Sie die unterstützten Betriebssysteme.
 
 ### Windows Betriebssysteme:
