@@ -1,12 +1,12 @@
 ---
 id: SEB_de
 title: SEB Allgemein
-nav_order: 1
+nav_order: 2
 ---
 
 ## Safe Exam Browser (SEB) 
 
-Der Safe Exam Browser (SEB) ist eine abgesicherte Browser-Applikation, um Onlineprüfungen auf Learning Management Systemen (LMS) zuverlässig durchführen zu können. Durch den Start der SEB-Applikation wird ein herkömmlicher Windows- oder macOS Computer in einen sogenannten Kioskmodus versetzt und somit zu einer temporär abgesicherten Arbeitsstation. SEB regelt den Zugriff auf Hilfsmittel wie Systemfunktionen, andere Websites und Programme und unterbindet die Verwendung von unerlaubten Ressourcen während einer Prüfung
+Der Safe Exam Browser (SEB) ist eine abgesicherte Browser-Applikation, um Onlineprüfungen auf Learning Management Systemen (LMS) zuverlässig durchführen zu können. Durch den Start der SEB-Applikation wird ein herkömmlicher Windows- oder macOS Computer in einen sogenannten Kioskmodus versetzt und somit zu einer temporär abgesicherten Arbeitsstation. SEB regelt den Zugriff auf Hilfsmittel wie Systemfunktionen, andere Websites und Programme und unterbindet die Verwendung von unerlaubten Ressourcen während einer Prüfung.
 
 Der SEB läuft auf einem lokalen Computer und ist über das Internet mit einem Lernmanagementsystem (LMS) oder einem E-Assessment-System, wie OLAT oder Ans verbunden. 
 
