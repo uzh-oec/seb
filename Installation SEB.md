@@ -1,8 +1,8 @@
 ---
 id: SEB_installation_de
 title: SEB Installation
+nav_order: 3
 has_children: true
-nav_order: 
 ---
 
 ## Installation Safe Exam Browser
