@@ -2,10 +2,33 @@
 id: windows_installation_de
 title: Installation Windows
 parent: SEB Installation
-nav_order: 
+nav_order: 1
 ---
 
 ## Installation auf Windows
 
 1. Lade Sie folgende SEB Version für Windows herunter:
 (Missing version)
+
+1. Laden Sie den Safe Exam Browser herunter und speichern Sie die Datei (save File)
+[![Windows-Download-2](assets/download-windows-step2.png)](download-windows-step2.png)
+
+1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads öffnen (Doppelklicken oder rechte Maustaste & Öffnen)
+
+1. Wählen Sie die Box «I agree to the license terms and conditions» und drücken Sie «Install»
+[![Windows-Download-4](assets/download-windows-step4.png)](download-windows-step4.png)
+
+1. Der Safe Exam Browser wird installiert
+[![Windows-Download-5](assets/download-windows-step5.png)](download-windows-step5.png)
+
+1. Ist der Safe Exam Browser installiert, wird dies wie folgt angezeigt:
+[![Windows-Download-6](assets/download-windows-step6.png)](download-windows-step6.png)
+
+1. Schliessen Sie das Installationsfenster und suchen Sie in Ihrer Suchfunktion unten links nach «Safe Exam Browser» & öffnen Sie die Applikation
+[![Windows-Download-7](assets/download-windows-step7.png)](download-windows-step7.png)
+
+1. Beim Öffnen des Safe Exam Browser wird Ihnen die Startseite angezeigt. Dabei werden Sie darauf hingewiesen, dass der Safe Exam Browser noch nicht fertig konfiguriert ist und erläutert die weiteren Schritte.
+[![Windows-Download-8](assets/download-windows-step8.png)](download-windows-step8.png)
+
+
+
