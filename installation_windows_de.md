@@ -7,13 +7,13 @@ nav_order: 1
 
 ## Installation auf Windows
 
-1. Lade Sie folgende SEB Version für Windows herunter:
+1. Laden Sie folgende SEB Version für Windows herunter:
 (Missing version)
 
 1. Laden Sie den Safe Exam Browser herunter und speichern Sie die Datei (save File)
 [![Windows-Download-2](assets/download-windows-step2.png)](download-windows-step2.png)
 
-1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads öffnen (Doppelklicken oder rechte Maustaste & Öffnen)
+1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads(Doppelklicken oder rechte Maustaste & Öffnen)
 
 1. Wählen Sie die Box «I agree to the license terms and conditions» und drücken Sie «Install»
 [![Windows-Download-4](assets/download-windows-step4.png)](download-windows-step4.png)
