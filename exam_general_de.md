@@ -1,6 +1,6 @@
 ---
 id: exam_general_de
-title: Prüfung Allgemeine Informationen
+title: Allgemeine Informationen
 parent: Prüfung
 nav_order: 1
 ---
