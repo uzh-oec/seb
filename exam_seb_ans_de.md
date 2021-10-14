@@ -23,13 +23,14 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 1. Nur kurz zeigt sich folgendes Bild
 [![SEB-Ans-start](assets/SEB_Ans_success.png)](SEB_Ans_success.png)
 
-1. Als Nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** ein
+1. Als Nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** oder **UZH** ein und wählen **University of Zurich (UZH)** aus
 [![SEB-Ans-start](assets/SEB_Ans_login.png)](SEB_Ans_login.png)
 
 1. Bitte loggen Sie sich mit dem AAI Switch Login ein
 [![SEB-Ans-start](assets/SEB_Ans_AAILogin.png)](SEB_Ans_AAILogin.png)
 
 1. Bei erfolgreichem Login wird Ihnen die Ans Plattform angezeit. 
+
 1. Navigieren Sie nun zu der Prüfung:
 * Hat die Prüfungszeit noch nicht begonnen, finden Sie die Prüfung unter **Scheduled assignments**
 * Hat die Prüfung bereits gestartet, finden Sie die Prüfung unter **Live assignments**
