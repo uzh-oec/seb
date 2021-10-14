@@ -10,7 +10,7 @@ nav_order: 2
 ### Start der Prüfung
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html {:target="_blank"})
 
-1. Sie erhalten zeitnha zu jeder Prüfung eine Konfigurationsdatei mit der Endung **.seb** 
+1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei mit der Endung **.seb** 
 * per Email
 * auf folgender Website
 
@@ -23,14 +23,20 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 1. Nur kurz zeigt sich folgendes Bild
 [![SEB-Ans-start](assets/SEB_Ans_success.png)](SEB_Ans_success.png)
 
-1. Als Nächstes lädt der SEB die Ans Plattform. 
+1. Als Nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** ein
 [![SEB-Ans-start](assets/SEB_Ans_login.png)](SEB_Ans_login.png)
 
 1. Bitte loggen Sie sich mit dem AAI Switch Login ein
 [![SEB-Ans-start](assets/SEB_Ans_AAILogin.png)](SEB_Ans_AAILogin.png)
 
-1. Bei erfolgreichem Login wird Ihnen die Ans Plattform angezeit
+1. Bei erfolgreichem Login wird Ihnen die Ans Plattform angezeit. 
+1. Navigieren Sie nun zu der Prüfung:
+* Hat die Prüfungszeit noch nicht begonnen, finden Sie die Prüfung unter **Scheduled assignments**
+* Hat die Prüfung bereits gestartet, finden Sie die Prüfung unter **Live assignments**
+Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html {:target="_blank"})
 
-### SEB Features
+### Während der Prüfung
+(Weitere Informationen folgen)
 
+### Beenden der Prüfung
 (Weitere Informationen folgen)
