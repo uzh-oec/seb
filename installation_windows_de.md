@@ -30,5 +30,5 @@ nav_order: 1
 1. Beim Öffnen des Safe Exam Browser wird Ihnen die Startseite angezeigt. Dabei werden Sie darauf hingewiesen, dass der Safe Exam Browser noch nicht fertig konfiguriert ist und erläutert die weiteren Schritte.
 [![Windows-Download-8](assets/download-windows-step8.png)](download-windows-step8.png)
 
-
+Sollten Sie Probleme bei der Installation der Applikation haben, folgen Sie bitte den Schritten hier.
 
