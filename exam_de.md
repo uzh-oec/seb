@@ -1,5 +1,5 @@
 ---
-id: Prüfung_de
+id: exam_de
 title: Prüfung
 nav_order: 5
 has_children: true

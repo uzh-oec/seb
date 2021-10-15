@@ -1,5 +1,5 @@
 ---
-id: SEB_Betriebssysteme
+id: Betriebssysteme_de
 title: Betriebssysteme
 nav_order: 3
 ---
