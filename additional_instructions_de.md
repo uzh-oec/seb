@@ -31,6 +31,9 @@ Sollte Ihr Endgerät mehrere Kameras ausweisen, ist es wichtig die Kamera auf de
 
 
 
+
+
+
 **Hinweis**: Wenn Sie Ihre Kamera wieder aktivieren wollen, folgen Sie der obigen Anleitung erneut, klicken aber auf "aktivieren" (engl. enable) in Punkt 4
 [![SEB-Camera-Hinweis](assets/SEB-Camera_Hinweis.png)](SEB-Camera_Hinweis.png)
 
