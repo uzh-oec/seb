@@ -26,10 +26,11 @@ Sollte Ihr Endgerät mehrere Kameras ausweisen, ist es wichtig die Kamera auf de
 [![SEB-Camera5](assets/SEB-Camera5.png)](SEB-Camera5.png)
 
 1. Die Kamera wird nun als "deaktiviert" angezeigt
+
 [![SEB-Camera6](assets/SEB-Camera6.png)](SEB-Camera6.png)
 
 
-1. 
+
 **Hinweis**: Wenn Sie Ihre Kamera wieder aktivieren wollen, folgen Sie der obigen Anleitung erneut, klicken aber auf "aktivieren" (engl. enable) in Punkt 4
 [![SEB-Camera-Hinweis](assets/SEB-Camera_Hinweis.png)](SEB-Camera_Hinweis.png)
 
