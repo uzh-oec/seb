@@ -1,6 +1,6 @@
 ---
 id: exam_general_de
-title: Allgemeine Informationen
+title: Wichtige Informationen
 parent: Prüfung
 nav_order: 1
 ---
@@ -11,8 +11,8 @@ nav_order: 1
 1. Zugang zum Lernmanagementsystem / E-Assessment Tool via Single Sign On (SWITCHaai) ist gewährt
 1. Kamera:
 * Das Prüfungsgerät hat eine funktioniernde Kamera
-* Das Prüfungsgerät hat **zwei** Kameras (z.B. Windows Surface): Stellen Sie sicher, das die Kamera auf der Rückseite des Gerätes ausgeschaltet ist (siehe Anleitung zum Deaktivieren)
-* Alle anderen Programme sind geschlossen: Sind die Programme nicht geschlossen, erzwingt der Safe Exam Browser die Schliessung, was zu Datenverlust führen kann
+* Das Prüfungsgerät hat **zwei** Kameras (z.B. Windows Surface): **Stellen Sie sicher, das die Kamera auf der Rückseite des Gerätes ausgeschaltet ist (siehe Anleitung zum Deaktivieren)**
+* Alle anderen Programme sind geschlossen: Sind die Programme nicht geschlossen, erzwingt der Safe Exam Browser die Schliessung, was zu **Datenverlust** führen kann
 1. Deaktivieren Sie den Ton auf Ihrem Endgerät
 
 

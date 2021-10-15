@@ -49,10 +49,10 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
 
 ### Während der Prüfung
 
-Der Safe Exam Browser weist am oberen und unteren Rand Symbole auf, welches hier genauer erläutert werden.
+Der Safe Exam Browser weist am oberen und unteren Rand Symbole auf, welche hier genauer erläutert werden.
 
 **Oben links:** 
-* Back - Button
+* Back-Button
 * Refresh-Button
 
 **Oben rechts:**
@@ -64,10 +64,12 @@ Von links nach rechts
 * Profil-Icon
 * Battery Icon
 * Audio-Icon
-* Language Setting
+* Spracheinstellung: Die Anzeige ist entweder **DEU** oder **EN** und bezieht sich auf die Tastatursprache
 * Zeit und Datum
-* Exit Knopf
+* Exit Knopf: bei Betätigung des Knopfes wird ein Passwort erfragt, welches der Administrator hat. Da das Beenden des Safe Exam Browsers nicht erlaubt ist, muss bei Betätigung dessen im Pop-Up **Abbrechen** gewählt werden
+[![SEB-Ans-QuitBrowser](assets/SEB_Ans_quitbrowser.png)](assets/SEB_Ans_quitbrowser.png)
 
 
 ### Beenden der Prüfung
-(Weitere Informationen folgen)
+ 
+Sie dürfen den Safe Exam Browser nicht vor Prüfungsende beenden. Ein vorzeitiger Ausstieg aus dem Safe Exam Browser gilt als Prüfungsbetrug. Klicken Sie NICHT auf den Button «Safe Exam Browser schliessen» bevor die Prüfungszeit abgelaufen ist.
