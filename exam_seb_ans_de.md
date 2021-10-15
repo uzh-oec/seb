@@ -8,7 +8,7 @@ nav_order: 2
 ## SEB mit Ans
 
 ### Start der Prüfung
-Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html) {:target="_blank"}
+Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
 
 1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei mit der Endung **.seb** 
 * per Email
