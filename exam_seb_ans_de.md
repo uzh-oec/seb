@@ -18,16 +18,16 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 [![SEB-Ans-openfile](assets/SEB_Ans_openfile.png)](SEB_Ans_openfile.png)
 
 1. Der SEB startet 
-[![SEB-Ans-start](assets/SEB_Ans_start.png)](SEB_Ans_start.png)
+[![SEB-Ans-start](assets/SEB_Ans_start.png)](assets/SEB_Ans_start.png)
 
 1. Nur kurz zeigt sich folgendes Bild
-[![SEB-Ans-start](assets/SEB_Ans_success.png)](SEB_Ans_success.png)
+[![SEB-Ans-start](assets/SEB_Ans_success.png)](assets/SEB_Ans_success.png)
 
 1. Als Nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** oder **UZH** ein und wählen **University of Zurich (UZH)** aus
-[![SEB-Ans-start](assets/SEB_Ans_login.png)](SEB_Ans_login.png)
+[![SEB-Ans-start](assets/SEB_Ans_login.png)](assets/SEB_Ans_login.png)
 
 1. Bitte loggen Sie sich mit dem AAI Switch Login ein
-[![SEB-Ans-start](assets/SEB_Ans_AAILogin.png)](SEB_Ans_AAILogin.png)
+[![SEB-Ans-start](assets/SEB_Ans_AAILogin.png)](assets/SEB_Ans_AAILogin.png)
 
 1. Bei erfolgreichem Login wird Ihnen die Ans Plattform angezeit. 
 
