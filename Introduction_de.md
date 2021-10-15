@@ -1,7 +1,7 @@
 ---
 id: SEB_de
 title: SEB Allgemein
-nav_order: 2
+nav_order: 5
 ---
 
 ## Safe Exam Browser (SEB) 
