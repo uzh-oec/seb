@@ -12,10 +12,10 @@ nav_order: 2
 
 1. Laden Sie die Datei herunter & öffnen Sie das heruntergeladene Programm:
 * Mit Doppelklicken auf das Icon 
-
 [![MacOS-Download-2_1](assets/download-MacOS-step2_1.png)](assets/download-MacOS-step2_1.png)
 * Mit der rechten Mausttaste & «öffnen» / «open»
 [![MacOS-Download-2_2](assets/download-MacOS-step2_2.png)](assets/download-MacOS-step2_2.png)
+
 1. Es erscheint ein Pop-Up, welches Sie anweist das «Safe Exam Browser» Icon anhand der Maus in den Programm-Ordner / Application Folder zu ziehen 
 [![MacOS-Download-3](assets/download-MacOS-step3.png)](assets/download-MacOS-step3.png)
 
