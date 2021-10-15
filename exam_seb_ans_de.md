@@ -49,7 +49,7 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
 
 ### Während der Prüfung
 
-Der Safe Exam Browser hat am oberen und unteren Rand ein paar Features, welches hier genauer erläutert werden.
+Der Safe Exam Browser weist am oberen und unteren Rand Symbole auf, welches hier genauer erläutert werden.
 
 **Oben links:** 
 * Back - Button
