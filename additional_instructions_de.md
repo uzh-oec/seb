@@ -1,7 +1,7 @@
 ---
 id: additional_instructions_de
 title: Zusätzliche Einstellungen
-nav_order: 6
+nav_order: 4
 ---
 
 ## Zusätzliche Einstellungen

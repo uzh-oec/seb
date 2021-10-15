@@ -1,7 +1,8 @@
 ---
 id: Betriebssysteme_de
 title: Betriebssysteme
-nav_order: 3
+parent: SEB Installation
+nav_order: 1
 ---
 
 ## Kompatible Betriebssysteme
