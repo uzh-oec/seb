@@ -8,7 +8,7 @@ nav_order: 3
 ## Installation auf MacOS
 
 1. Laden Sie folgende SEB Version für MacOS herunter:
-(Missing version)
+Version 3.2, Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
 1. Laden Sie die Datei herunter & öffnen Sie das heruntergeladene Programm:
 * Mit Doppelklicken auf das Icon 
