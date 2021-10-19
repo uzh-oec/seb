@@ -32,3 +32,4 @@ Version 3.3.0, Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](htt
 
 Sollten Sie Probleme bei der Installation der Applikation haben, folgen Sie bitte den Schritten [hier](https://uzh-oec.github.io/seb/installation_probleme.html){:target="_blank"}.
 
+**Hinweis**: Für die Prüfung erfolgt das Starten des SEB bei Ans und OLAT-EPIS auf verschiedene Weise, ziehen Sie hierfür bitte die Erläuterung der jeweiligen Supportseiten heran (siehe "SEB & Ans" bzw. "SEB & EPIS")
