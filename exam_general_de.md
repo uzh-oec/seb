@@ -15,5 +15,6 @@ nav_order: 1
 * Alle anderen Programme sind geschlossen: Sind die Programme nicht geschlossen, erzwingt der Safe Exam Browser die Schliessung, was zu **Datenverlust** führen kann
 1. Deaktivieren Sie den Ton auf Ihrem Endgerät
 
+**Hinweis**: Falls Sie Musik hören, muss die Musik dringend vor der Prüfung ausgeschaltet werden, da diese möglicherweise weiterläuft, sodass bei Problemen während der Prüfung keine Verständigung möglich ist.
 
-**Hinweis**: Falls Sie Musik hören, muss die dringend vor der Prüfung ausgeschaltet werden, da diese möglicherweise weiterläuft, sodass bei Problemen während der Prüfung keine Verständigung möglich ist
+Das Starten des SEB erfolgt bei Ans und Olat auf verschiedene Weise, ziehen Sie hierfür bitte die Erläuterung der jeweiligen Supportseiten heran (siehe "SEB & Ans" bzw. "SEB & EPIS")
