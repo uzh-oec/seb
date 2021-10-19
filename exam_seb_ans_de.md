@@ -60,7 +60,6 @@ Der Safe Exam Browser weist am oberen und unteren Rand Symbole auf, welche hier 
 
 **Unten rechts:**
 Von links nach rechts
-* Hand-Raise-Icon
 * Profil-Icon
 * Battery Icon
 * Audio-Icon
