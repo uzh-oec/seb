@@ -10,10 +10,9 @@ nav_order: 3
 ### Start der Prüfung
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
 
-1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei mit der Endung **.seb** auf folgender Website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei auf folgender Website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
-1. Laden Sie die Datei herunter, öffnen Sie die Datei und klicken Sie **OK** bei der folgenden Anzeige
-[![SEB-Ans-openfile-Mac](assets/SEB_Ans_openfile_mac.png)](SEB_Ans_openfile_mac.png)
+1. Klicken Sie auf die Schaltfläche **DATEINAME starten**
 
 1. Während der SEB startet, zeigt sich ein Pop-Up, welches darauf hinweist, dass ein Videoüberwachung stattfindet. Drücken Sie **OK**       
 [![SEB-Ans-start-Mac](assets/SEB_Ans_remoteproctoring_mac.png)](assets/SEB_Ans_remoteproctoring_mac.png)
