@@ -16,6 +16,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 [![SEB-Ans-openfile-Mac](assets/SEB_Ans_openfile_mac.png)](SEB_Ans_openfile_mac.png)
 
 1. Während der SEB startet, zeigt sich ein Pop-Up, welches darauf hinweist, dass ein Videoüberwachung stattfindet. Drücken Sie **OK** 
+
 [![SEB-Ans-start-Mac](assets/SEB_Ans_remoteproctoring_mac.png)](assets/SEB_Ans_remoteproctoring_mac.png)
 
 1. Als Nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** oder **UZH** ein und wählen **University of Zurich (UZH)** aus
