@@ -1,11 +1,11 @@
 ---
-id: exam_seb_ans_de
-title: SEB & Ans
+id: exam_seb_ans_win_de
+title: SEB & Ans mit Windows
 parent: Prüfung
 nav_order: 2
 ---
 
-## SEB mit Ans
+## SEB mit Ans (Windows)
 
 ### Start der Prüfung
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
