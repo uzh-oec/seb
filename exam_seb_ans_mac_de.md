@@ -2,7 +2,7 @@
 id: exam_seb_ans_de
 title: SEB & Ans mit MacOS
 parent: Prüfung
-nav_order: 2
+nav_order: 3
 ---
 
 ## SEB mit Ans (MacOS)
@@ -59,8 +59,7 @@ Der Safe Exam Browser weist am unteren Rand Symbole auf.
 **Unten rechts:**
 * Zeit
 * Aktualisierungssymbol
-* Exit: bei Betätigung des Knopfes wird ein Passwort erfragt, welches der Administrator hat. Da das Beenden des Safe Exam Browsers nicht erlaubt ist, muss bei Betätigung dessen im Pop-Up **Abbrechen** gewählt werden
-[![SEB-Ans-QuitBrowser](assets/SEB_Ans_quitbrowser.png)](assets/SEB_Ans_quitbrowser.png)
+* Exit
 
 
 
