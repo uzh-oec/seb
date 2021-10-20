@@ -32,8 +32,8 @@ Sollte Ihr Endgerät mehrere Kameras ausweisen, ist es wichtig die Kamera auf de
 
 
 
-
-
 **Hinweis**: Wenn Sie Ihre Kamera wieder aktivieren wollen, folgen Sie der obigen Anleitung erneut, klicken aber auf "aktivieren" (engl. enable) in Punkt 4
 [![SEB-Camera-Hinweis](assets/SEB-Camera_Hinweis.png)](SEB-Camera_Hinweis.png)
 
+
+**Testing**: Wenn Sie eine Prüfung machen, sehen Sie sich nicht selber. Um sich zu vergewissern, dass die richtige Kamera für die Video Überwachung genutzt wird, gibt es jeweils Testprüfungen. Gerne können Sie uns unter folgender Nummer anrufen 044 365 66 77, wenn Sie sich in einer Testprüfung befinden, damit wir Ihnen Auskunft geben können, ob die richtige Kamera angezeigt wird.
