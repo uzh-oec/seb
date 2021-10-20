@@ -21,7 +21,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 1. Als Nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** oder **UZH** ein und wählen **University of Zurich (UZH)** aus
 [![SEB-Ans-login-Mac](assets/SEB_Ans_login_mac.png)](assets/SEB_Ans_login_mac.png)
 
-1. Bitte loggen Sie sich mit dem AAI Switch Login ein
+1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
 
 1. Bei erfolgreichem Login wird Ihnen innerhalb der Ans Plattform  die Prüfung direkt angezeigt, sodass Sie den Ehrenkodex sehen (falls die Prüfung noch nicht Live ist, sehen Sie diese **nach** dem Countdown)
 [![SEB-Ans-Prüfung-Mac](assets/SEB_Ans_Prüfung_mac.png)](assets/SEB_Ans_Prüfung_mac.png)
@@ -34,9 +34,8 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
 [![SEB-Ans-Zoom-Mac](assets/SEB_Ans_Zoom_mac.png)](assets/SEB_Ans_Zoom_mac.png)
 
 1. Es wird empfohlen, dass Sie:
-* das Mikrofon stumm schalten 
 * den Ton Ihres Gerätes abschalten
-* das Fenster **verkleinern" und auf die linke oder rechte Seite des Bildschims schieben
+* das Fenster **verkleinern** und auf die linke oder rechte Seite des Bildschims schieben
 [![SEB-Ans-Zoom-Mac](assets/SEB_Ans_Zoom_minimize_mac.png)](assets/SEB_Ans_Zoom_minimize_mac.png)
 
 1. Die Prüfung wird nun angezeigt.
