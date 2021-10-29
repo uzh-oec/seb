@@ -1,11 +1,11 @@
 ---
 id: exam_seb_epis_de
-title: SEB & EPIS
+title: SEB & EPIS mit MacOS
 parent: Prüfung
-nav_order: 4
+nav_order: 5
 ---
 
-## SEB mit OLAT-EPIS
+## SEB mit OLAT-EPIS (MacOS)
 
 ### Start der Prüfung
 
