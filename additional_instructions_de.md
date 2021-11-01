@@ -1,10 +1,18 @@
 ---
 id: additional_instructions_de
-title: Zusätzliche Einstellungen
+title: Kamera / Proctoring
 nav_order: 4
 ---
 
 ## Zusätzliche Einstellungen
+### Kamera
+
+Bitte stellen Sie sicher, dass Kamera für das Proctoring funktioniert. 
+
+**Infrastruktur Testing**: Im SEB, sehen Sie sich je nach Betriebssystem nicht selber (Profilicon unten in der Taskleiste). Um sich zu vergewissern, dass die Kamera für die Video Überwachung funktioniert, ist es am einfachsten, wenn Sie sich zeitgleich mit einer Mitstudentin / einem Mitstudenten einloggen und gegenseitig prüfen, dass Sie die andere Person sehen können. 
+
+**Während der Prüfung**: Falls Sie während der Prüfung oder der Probeprüfung das Gefühl haben, dass die Videoüberwachung nicht funktioniert, Sie aber die Prüfung / die Probeprüfunge absolvieren können: **Lösen Sie die Prüfung / die Probeprüfung weiter!** Wir melden uns bei Ihnen, falls etwas nicht funktioniert. Sie müssen sich nicht melden!
+
 
 ### Kamera deaktivieren
 
@@ -31,9 +39,8 @@ Sollte Ihr Endgerät mehrere Kameras ausweisen, ist es wichtig die Kamera auf de
 
 
 
-
 **Hinweis**: Wenn Sie Ihre Kamera wieder aktivieren wollen, folgen Sie der obigen Anleitung erneut, klicken aber auf "aktivieren" (engl. enable) in Punkt 4
 [![SEB-Camera-Hinweis](assets/SEB-Camera_Hinweis.png)](SEB-Camera_Hinweis.png)
 
 
-**Testing**: Wenn Sie eine Prüfung machen, sehen Sie sich nicht selber. Um sich zu vergewissern, dass die richtige Kamera für die Video Überwachung genutzt wird, gibt es jeweils Testprüfungen. Gerne können Sie uns unter folgender Nummer anrufen 044 365 66 77, wenn Sie sich in einer Testprüfung befinden, damit wir Ihnen Auskunft geben können, ob die richtige Kamera angezeigt wird.
+
