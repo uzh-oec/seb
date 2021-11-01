@@ -16,7 +16,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 1. Es erscheint ein Pop-Up, welches die Aktuelle Prüfung anzeigt. Darin wird erläutert, dass die Prüfung nur mit dem Safe Exam Browser bearbeitet werden kann. Klicken Sie auf die **Safe Exam Browser Starten** Schaltfläche
 [![SEB-Epis-start-Win](assets/SEB_Epis_openbrowser.jpg)](assets/SEB_Epis_openbrowser.jpg)
 
-1. Ein Fenster zeigt die Applikation **Safe Exam Browser** an um die Prüfung zu starten. Klicken Sie **Link öffnen** / **Open Link**
+1. Ein Fenster zeigt die Applikation **Safe Exam Browser** an um die Prüfung zu starten. Klicken Sie **Anwendung wählen / Choose Application**
 [![SEB-Epis-Popup-Win](assets/SEB_Epis_popup_win.png)](assets/SEB_Epis_popup_win.png)
 
 1. Der SEB startet 
@@ -26,7 +26,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 [![SEB-Epis-startSEB-Win](assets/SEB_Epis_remoteproctoring_win.png)](assets/SEB_Epis_remoteproctoring_win.png)
 
 1. Als Nächstes lädt der Safe Exam Browser die Prüfungsplattform OLAT und bittet Sie erneut sich einzuloggen. 
-[![SEB-Epis-LoginOlatSEB-Mac](assets/SEB_Epis_LoginOlatSEB_mac.jpg)](assets/SEB_Epis_LoginOlatSEB_mac.jpg)
+[![SEB-Epis-LoginOlatSEB-Win](assets/SEB_Epis_LoginOlatSEB_win.jpg)](assets/SEB_Epis_LoginOlatSEB_win.jpg)
 
 1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
 [![SEB-Epis-LoginOlatSEBAAI-Mac](assets/SEB_Epis_AAILogin_win.png)](assets/SEB_Epis_AAILogin_win.png)
