@@ -52,8 +52,7 @@ Von links nach rechts
 * Audio-Icon
 * Spracheinstellung: Die Anzeige ist die gegenwärtigee Tastatur und kann zwischen den auf dem Endgerät eingerichteten Tastatureinstellungen 
 * Zeit und Datum
-* Exit Knopf: bei Betätigung des Knopfes wird ein Passwort erfragt, welches der Administrator hat. Da das Beenden des Safe Exam Browsers nicht erlaubt ist, muss bei Betätigung dessen im Pop-Up **Abbrechen** gewählt werden
-[![SEB-Ans-QuitBrowser](assets/SEB_Ans_quitbrowser.png)](assets/SEB_Ans_quitbrowser.png)
+* Exit Knopf
 
 
 ### Beenden der Prüfung
