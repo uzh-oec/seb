@@ -19,5 +19,4 @@ Der SEB-Browser unterstützt sowohl Windows als auch Mac. Dabei sollte das jewei
 * macOS 10.15 Catalina
 * macOS 10.14 Mojave
 * macOS 10.13 High Sierra
-* macOS 10.12 Sierra
-* OS X 10.11 El Capitan
+
