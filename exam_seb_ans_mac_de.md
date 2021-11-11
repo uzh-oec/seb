@@ -12,7 +12,9 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 
 1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei auf folgender Website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
-1. Klicken Sie auf die Schaltfläche **DATEINAME starten**
+1. Sobald Sie sich auf der oben genannten Website befinden, gehen Sie zum Abschnitt **Modulspezifische Informationen** und wählen Ihr Modul an.
+
+1. Auf der jeweiligen Modulseite finden Sie verschiedene Testläufe sowie die Prüfung aufgelistet. Gehen Sie zu dem jeweiligen  (z.B. Infrastrukturtest), für den Sie die Konfigurationsdatei benötigen, und wählen Sie **DATEINAME starten** (hier "Infrastrukturtest starten). 
 
 1. Während der SEB startet, zeigt sich ein Pop-Up, welches darauf hinweist, dass ein Videoüberwachung stattfindet. Drücken Sie **OK**       
 [![SEB-Ans-start-Mac](assets/SEB_Ans_remoteproctoring_mac.png)](assets/SEB_Ans_remoteproctoring_mac.png)
