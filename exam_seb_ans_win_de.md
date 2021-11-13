@@ -7,10 +7,15 @@ nav_order: 2
 
 ## SEB mit Ans (Windows)
 
+1. Inhaltsübersicht
+{:toc}
+
+---
+
 ### Start der Prüfung
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
 
-1. 1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei auf folgender Website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei auf folgender Website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
 1. Sobald Sie sich auf der oben genannten Website befinden, gehen Sie zum Abschnitt **Modulspezifische Informationen** und wählen Ihr Modul an.
 
