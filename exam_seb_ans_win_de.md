@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 ## SEB mit Ans (Windows)
+{: .no_toc }
 
 1. Inhaltsübersicht
 {:toc}
