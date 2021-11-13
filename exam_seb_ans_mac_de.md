@@ -6,6 +6,12 @@ nav_order: 3
 ---
 
 ## SEB mit Ans (MacOS)
+{: .no_toc }
+
+1. Inhaltsübersicht
+{:toc}
+
+---
 
 ### Start der Prüfung
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}

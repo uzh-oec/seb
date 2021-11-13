@@ -6,6 +6,12 @@ nav_order: 4
 ---
 
 ## SEB mit OLAT-EPIS (Windows)
+{: .no_toc }
+
+1. Inhaltsübersicht
+{:toc}
+
+---
 
 ### Start der Prüfung
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
