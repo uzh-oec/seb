@@ -37,15 +37,13 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
 [![SEB-Ans-AAILogin](assets/SEB_Ans_AAILogin.png)](assets/SEB_Ans_AAILogin.png)
 
-1. Bei erfolgreichem Login wird Ihnen die Ans Plattform angezeit. 
-[![SEB-Ans-Plattform](assets/SEB_Ans_Plattform.png)](assets/SEB_Ans_Plattform.png)
-
-1. Navigieren Sie nun zu der Prüfung:
+1. Generell wird Ihnen innerhalb der Ans Plattform die Prüfung direkt angezeigt.
+**Hinweis**: sollte die Prüfung nicht angezeigt werden (z.B. Fehlermeldung "Access denied" / "Incorrect configuration detected), klicken Sie oben links auf das **ans** Logo und suchen Sie nach der Prüfung:
 * Hat die Prüfungszeit noch nicht begonnen, finden Sie die Prüfung unter **Scheduled assignments**
 * Hat die Prüfung bereits gestartet, finden Sie die Prüfung unter **Live assignments**
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
 
-1. Wählen Sie den Prüfungskurs und wählen Sie die Start-Schaltfläche (falls die Prüfung noch nicht Life ist, sehen Sie diese **nach** dem Countdown)
+1. Wählen Sie die Start-Schaltfläche (falls die Prüfung noch nicht Life ist, sehen Sie diese **nach** dem Countdown)
 [![SEB-Ans-StartExam](assets/SEB_Ans_startexam.png)](assets/SEB_Ans_startexam.png)
 
 1. Die Prüfung wird kurz geladen
