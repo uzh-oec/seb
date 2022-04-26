@@ -8,12 +8,12 @@ nav_order: 2
 ## Installation auf Windows
 
 1. Laden Sie folgende SEB Version für Windows herunter:
-Version 3.3.1, Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+Version 3.3.2, Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
 1. Laden Sie den Safe Exam Browser herunter und speichern Sie die Datei (save File)
 [![Windows-Download-2](assets/download-windows-step2.png)](assets/download-windows-step2.png)
 
-1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads(Doppelklicken oder rechte Maustaste & Öffnen)
+1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads (Doppelklicken oder rechte Maustaste & Öffnen)
 
 1. Wählen Sie die Box «I agree to the license terms and conditions» und drücken Sie «Install»
 [![Windows-Download-4](assets/download-windows-step4.png)](assets/download-windows-step4.png)
@@ -30,6 +30,14 @@ Version 3.3.1, Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](htt
 1. Beim Öffnen des Safe Exam Browser wird Ihnen die Startseite angezeigt. Dabei werden Sie darauf hingewiesen, dass der Safe Exam Browser noch nicht fertig konfiguriert ist und erläutert die weiteren Schritte.
 [![Windows-Download-8](assets/download-windows-step8.png)](assets/download-windows-step8.png)
 
-Sollten Sie Probleme bei der Installation der Applikation haben, folgen Sie bitte den Schritten [hier](https://uzh-oec.github.io/seb/installation_probleme.html){:target="_blank"}.
+1. Schliessen Sie den SEB wieder
 
-**Hinweis**: Für die Prüfung erfolgt das Starten des SEB bei Ans und OLAT-EPIS auf verschiedene Weise, ziehen Sie hierfür bitte die Erläuterung der jeweiligen Supportseiten heran (siehe "SEB & Ans" bzw. "SEB & EPIS")
+**Hinweis**: Für die Konfiguration wird Ihnen für jede Prüfung eine entsprechende **Konfigurations-Datei** zur Verfügung gestellt. Diese finden Sie hier [https://www.oec.uzh.ch/de/seb](https://www.oec.uzh.ch/de/seb){:target="_blank"}.
+
+Für die Prüfung erfolgt das Starten des SEB bei Ans und OLAT-EPIS auf verschiedene Weise, ziehen Sie hierfür bitte die Erläuterung der jeweiligen Supportseiten heran:
+* [Ans & SEB mit Windows](https://uzh-oec.github.io/seb/exam_seb_ans_win_de.html){:target="_blank"}.
+* [Ans & SEB mit MacOS](https://uzh-oec.github.io/seb/exam_seb_ans_mac_de.html){:target="_blank"}.
+* [EPIS-OLAT & SEB mit Windows](https://uzh-oec.github.io/seb/exam_seb_epis_win_de.html){:target="_blank"}.
+* [EPIS-OLAT & SEB mit MacOS](https://uzh-oec.github.io/seb/exam_seb_epis_mac_de.html){:target="_blank"}.
+
+Sollten Sie Probleme bei der Installation der Applikation haben, folgen Sie bitte den Schritten [hier](https://uzh-oec.github.io/seb/installation_problems_de.html){:target="_blank"}.

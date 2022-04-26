@@ -10,9 +10,9 @@ nav_order: 1
 Der SEB-Browser unterstützt sowohl Windows als auch Mac. Dabei sollte das jeweilige Betriebssystem auf dem neusten Stand sein. Nachfolgend finden Sie die unterstützten Betriebssysteme.
 
 ### Windows Betriebssysteme:
-* Windows 8.1
-* Windows 10
 * Windows 11
+* Windows 10
+* Windows 8.1
 
 ### MacOS Betriebssysteme:
 * macOS 12 Monterey

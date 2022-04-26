@@ -6,16 +6,16 @@ nav_order: 4
 
 ## Kamera
 
-Bitte stellen Sie sicher, dass Kamera für das Proctoring funktioniert. 
+Bitte stellen Sie sicher, dass Ihre Kamera für die Prüfungsbeaufsichtigung (Proctoring) funktioniert. 
 
-**Infrastruktur Testing**: Im SEB, sehen Sie sich je nach Betriebssystem nicht selber (Profilicon unten in der Taskleiste). Um sich zu vergewissern, dass die Kamera für die Video Überwachung funktioniert, ist es am einfachsten, wenn Sie sich zeitgleich mit einer Mitstudentin / einem Mitstudenten einloggen und gegenseitig prüfen, dass Sie die andere Person sehen können. 
+**Infrastruktur Testing**: Im SEB, sehen Sie sich je nach Betriebssystem nicht selber (Profil-Icon unten in der Taskleiste). Um sich zu vergewissern, dass die Kamera für die Videoüberwachung funktioniert, ist es am einfachsten, wenn Sie sich zeitgleich mit einer Mitstudentin / einem Mitstudenten einloggen und gegenseitig prüfen, dass Sie die andere Person sehen können. 
 
 **Während der Prüfung**: Falls Sie während der Prüfung oder der Probeprüfung das Gefühl haben, dass die Videoüberwachung nicht funktioniert, Sie aber die Prüfung / die Probeprüfunge absolvieren können: **Lösen Sie die Prüfung / die Probeprüfung weiter! Wir melden uns bei Ihnen, falls etwas nicht funktioniert. Sie müssen sich nicht melden!**
 
 
 ### Kamera deaktivieren
 
-Sollte Ihr Endgerät **mehrere** Kameras ausweisen, ist es wichtig die Kamera auf der **Rückseite des Gerätes** ausgeschaltet ist
+Sollte Ihr Endgerät über **mehrere** Kameras verfügen, ist es wichtig die Kamera auf der **Rückseite des Gerätes** auszuschalten
 
 1. Klicken Sie auf "Start" bzw. auf das "Windows-Symbol" und geben Sie in das Suchfeld "Geräte-Manager" (engl. Device Manager) ein. Klicken Sie auf den Eintrag.
 [![SEB-Camera1](assets/SEB-Camera1.png)](assets/SEB-Camera1.png)
