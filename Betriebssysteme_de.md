@@ -12,6 +12,7 @@ Der SEB-Browser unterstützt sowohl Windows als auch Mac. Dabei sollte das jewei
 ### Windows Betriebssysteme:
 * Windows 8.1
 * Windows 10
+* Windows 11
 
 ### MacOS Betriebssysteme:
 * macOS 12 Monterey
