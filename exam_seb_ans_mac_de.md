@@ -25,7 +25,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 1. Während der SEB startet, zeigt sich ein Pop-Up, welches darauf hinweist, dass ein Videoüberwachung stattfindet. Drücken Sie **OK**       
 [![SEB-Ans-start-Mac](assets/SEB_Ans_remoteproctoring_mac.png)](assets/SEB_Ans_remoteproctoring_mac.png)
 
-1. Als Nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** oder **UZH** ein und wählen **University of Zurich (UZH)** aus
+1. Als nächstes lädt der SEB die Ans Plattform. Wählen Sie die Login-Option "Login with school account" und geben Sie **Zurich** oder **UZH** ein und wählen **University of Zurich (UZH)** aus
 [![SEB-Ans-login-Mac](assets/SEB_Ans_login_mac.png)](assets/SEB_Ans_login_mac.png)
 
 1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
@@ -37,7 +37,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 * Hat die Prüfung bereits gestartet, finden Sie die Prüfung unter **Live assignments**
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
 
-1. Unten rechts im SEB ist nun auch das **Videoprocotring** unter dem Profil-Symbol aktiv. Bitte machen Sie folgende Anpassungen falls nötig:
+1. Unten rechts im SEB ist nun auch das **Videoproctoring** unter dem Profil-Symbol aktiv. Bitte machen Sie folgende Anpassungen falls nötig:
 * Das Mikrofon ist eingeschaltet (obligatorisch)
 * Den Ton des Gerätes ist ausgeschaltet
 
@@ -54,9 +54,6 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
  
 Sie dürfen den Safe Exam Browser **nicht** vor Prüfungsende beenden. Ein vorzeitiger Ausstieg aus dem Safe Exam Browser gilt als Prüfungsbetrug. Klicken Sie **NICHT** auf den Button «Safe Exam Browser schliessen» bevor die Prüfungszeit abgelaufen ist.
 [![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)
-
-**Hinweis**: Wenn Sie die Prüfung beenden, kommt eine Fehlermeldung, dass der Safe Exam Browser unerwartet beendet wurde. Klicken Sie hier bitte **OK**
-[![SEB-Ans-Error-Mac](assets/SEB_Ans_postquit_mac.png)](assets/SEB_Ans_postquit_mac.png)
 
 
 ### Während der Prüfung

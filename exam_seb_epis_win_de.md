@@ -16,7 +16,7 @@ nav_order: 4
 ### Start der Prüfung
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
 
-1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [hs4.epis.uzh.ch](hs4.epis.uzh.ch){:target="_blank"}
+1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [fs5.epis.uzh.ch](fs5.epis.uzh.ch){:target="_blank"}
 [![SEB-OLAT-Login](assets/SEB_Olat_Login.png)](assets/SEB_Olat_Login.png)
 
 1. Es erscheint ein Pop-Up, welches die Aktuelle Prüfung anzeigt. Darin wird erläutert, dass die Prüfung nur mit dem Safe Exam Browser bearbeitet werden kann. Klicken Sie auf die **Safe Exam Browser Starten** Schaltfläche
