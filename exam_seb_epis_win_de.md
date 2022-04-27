@@ -32,7 +32,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 [![SEB-Epis-startSEB-Win](assets/SEB_Epis_remoteproctoring_win.png)](assets/SEB_Epis_remoteproctoring_win.png)
 
 1. Als Nächstes lädt der Safe Exam Browser die Prüfungsplattform OLAT und bittet Sie erneut sich einzuloggen. 
-[![SEB-Epis-LoginOlatSEB-Win](assets/SEB_Epis_LoginOlatSEB_win.jpg)](assets/SEB_Epis_LoginOlatSEB_win.jpg)
+[![SEB-Epis-LoginOlatSEB-Win](assets/SEB_Epis_LoginOlatSEB_win.png)](assets/SEB_Epis_LoginOlatSEB_win.png)
 
 1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
 [![SEB-Epis-LoginOlatSEBAAI-Mac](assets/SEB_Epis_AAILogin_win.png)](assets/SEB_Epis_AAILogin_win.png)
