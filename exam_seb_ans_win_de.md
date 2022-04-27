@@ -84,6 +84,8 @@ Von links nach rechts
 * Exit Knopf: bei Betätigung des Knopfes wird ein Passwort erfragt, welches der Administrator hat. Da das Beenden des Safe Exam Browsers nicht erlaubt ist, muss bei Betätigung dessen im Pop-Up **Abbrechen** gewählt werden
 [![SEB-Ans-QuitBrowser](assets/SEB_Ans_quitbrowser.png)](assets/SEB_Ans_quitbrowser.png)
 
+Eine detailierte Übersicht zu den Symbolen und deren Funktion erhalten Sie auf dieser Seite:
+[Symbole erklärt](./icons_explained.md)
 
 ### Beenden der Prüfung
  

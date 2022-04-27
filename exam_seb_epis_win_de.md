@@ -60,7 +60,10 @@ Von links nach rechts
 * Zeit und Datum
 * Exit Knopf
 
+Eine detailierte Übersicht zu den Symbolen und deren Funktion erhalten Sie auf dieser Seite:
+[Symbole erklärt](./icons_explained.md)
+
 
 ### Beenden der Prüfung
- 
-(weitere Informationen folgen)
+
+Sie dürfen den Safe Exam Browser **nicht** vor Prüfungsende beenden. Ein vorzeitiger Ausstieg aus dem Safe Exam Browser gilt als Prüfungsbetrug. Klicken Sie **NICHT** auf den Button «Safe Exam Browser schliessen» bevor die Prüfungszeit abgelaufen ist.

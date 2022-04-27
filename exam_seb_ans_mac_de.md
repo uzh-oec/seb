@@ -50,11 +50,6 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
 1. Die Prüfung wird nun angezeigt.
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
 
-### Beenden der Prüfung
- 
-Sie dürfen den Safe Exam Browser **nicht** vor Prüfungsende beenden. Ein vorzeitiger Ausstieg aus dem Safe Exam Browser gilt als Prüfungsbetrug. Klicken Sie **NICHT** auf den Button «Safe Exam Browser schliessen» bevor die Prüfungszeit abgelaufen ist.
-[![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)
-
 
 ### Während der Prüfung
 
@@ -64,6 +59,14 @@ Der Safe Exam Browser weist am unteren Rand Symbole auf.
 * Zeit
 * Aktualisierungssymbol
 * Exit
+
+Eine detailierte Übersicht zu den Symbolen und deren Funktion erhalten Sie auf dieser Seite:
+[Symbole erklärt](./icons_explained.md)
+
+### Beenden der Prüfung
+ 
+Sie dürfen den Safe Exam Browser **nicht** vor Prüfungsende beenden. Ein vorzeitiger Ausstieg aus dem Safe Exam Browser gilt als Prüfungsbetrug. Klicken Sie **NICHT** auf den Button «Safe Exam Browser schliessen» bevor die Prüfungszeit abgelaufen ist.
+[![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)
 
 
 
