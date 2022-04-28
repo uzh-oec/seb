@@ -16,6 +16,8 @@ Mittels sogenannten «Swipe-Gesten» auf Ihrem Touchpad gelangen Sie ebenfalls z
 **MacOS von Apple**
 Unter MacOS ist zur Zeit ein Verlassen des SEB während einer Open Book Prüfung nur mittels «Swipe-Gesten» möglich. «Swipen» Sie hierzu mit 3 Fingern auf dem Touchpad nach oben (Richtung Bildschirm) um Ihr Dock anzuzeigen. Aktuell wird das Dock leider nicht ganz angezeigt, jedoch sollte ein Klick auf die gewünschte Software dennoch möglich sein. Für mehr Information zu Gesten auf MacOS, suchen Sie auf der Apple Support Webseite nach «Touch gestures».
 
+Die Tastenkombination command + Pfeiltaste kann ebenfalls verwendet werden, muss jedoch vorgängig so konfiguriert werden.
+
 [![icons-openbook_dock](assets/openbook_dock.jpg)](assets/openbook_dock.jpg)
 
 **Hinweis**
