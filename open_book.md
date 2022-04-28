@@ -21,4 +21,4 @@ Unter MacOS ist zur Zeit ein Verlassen des SEB während einer Open Book Prüfung
 **Hinweis**
 Zur Vorbereitung auf eine Open Book Prüfung mit SEB sollten Sie folgende Vorkehrungen bereits vor der Prüfung treffen.
 Stellen Sie sicher, dass alle benötigte Software auf Ihrer Toolbar respektive Ihrem Dock angeheftet ist, so dass diese schnell mit einem Klick darauf gestartet werden kann.
-Erlaubte Software, welche bereits vor dem Starten des SEB geöffnet wird, bleibt auch während der Prüfung offen. Öffnen Sie also bereits vor der Prüfung jegliche Software, die Sie benötigen könnten. Dies erspart Ihnen Zeit während der Prüfung und erleichtert es die Software zu finden.
+Erlaubte Software, welche bereits vor dem Starten des SEB geöffnet wird, bleibt auch während der Prüfung offen. Öffnen Sie also bereits vor der Prüfung jegliche Software die Sie benötigen könnten. Dies erspart Ihnen Zeit während der Prüfung und erleichtert es die Software zu finden.

@@ -10,9 +10,6 @@ nav_order: 2
 1. Laden Sie folgende SEB Version für Windows herunter:
 Version 3.3.2, Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
-1. Laden Sie den Safe Exam Browser herunter und speichern Sie die Datei (save File)
-[![Windows-Download-2](assets/download-windows-step2.png)](assets/download-windows-step2.png)
-
 1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads (Doppelklicken oder rechte Maustaste & Öffnen)
 
 1. Wählen Sie die Box «I agree to the license terms and conditions» und drücken Sie «Install»

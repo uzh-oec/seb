@@ -10,7 +10,7 @@ Im unteren Bereich des SEB befinden sich diverse Zusatzfunktionalitäten, welche
 
 [![icons-overview](assets/icons_overview.jpg)](assets/icons_overview.jpg)
 
-Auf der linken Seite befindet sich der «SEB Button». Durch einen Klick auf diesen, wird die Seite neu geladen. Dies kann hilfreich sein, falls der SEB nur eine schwarze Seite anstelle der Prüfung anzeigt.
+Auf der linken Seite befindet sich der «SEB Button». Durch einen Klick auf diesen wird die Seite neu geladen. Dies kann hilfreich sein, falls der SEB nur eine schwarze Seite anstelle der Prüfung anzeigt.
 
 [![icons-sebbutton](assets/icons_sebbutton.jpg)](assets/icons_sebbutton.jpg)
 
