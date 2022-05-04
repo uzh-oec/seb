@@ -42,23 +42,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 
 ### Während der Prüfung
 
-Der Safe Exam Browser weist am oberen und unteren Rand Symbole auf, welche hier genauer erläutert werden.
-
-**Oben links:** 
-* Back-Button
-* Refresh-Button
-
-**Oben rechts:**
-* Menu-Icon
-
-**Unten rechts:**
-Von links nach rechts
-* Profil-Icon
-* Battery Icon
-* Audio-Icon
-* Spracheinstellung: Die Anzeige ist die gegenwärtigee Tastatur und kann zwischen den auf dem Endgerät eingerichteten Tastatureinstellungen 
-* Zeit und Datum
-* Exit Knopf
+Der Safe Exam Browser verfügt über verschiedenste Funktionen, welche mittels den Symbolen aufgerufen werden können. Je nach Version können diese an anderer Stelle oder gar nicht angezeigt werden.
 
 Eine detailierte Übersicht zu den Symbolen und deren Funktion erhalten Sie auf dieser Seite:
 [Symbole erklärt](./icons_explained.md)

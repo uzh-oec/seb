@@ -53,12 +53,7 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
 
 ### Während der Prüfung
 
-Der Safe Exam Browser weist am unteren Rand Symbole auf.
-
-**Unten rechts:**
-* Zeit
-* Aktualisierungssymbol
-* Exit
+Der Safe Exam Browser verfügt über verschiedenste Funktionen, welche mittels den Symbolen aufgerufen werden können. Je nach Version können diese an anderer Stelle oder gar nicht angezeigt werden.
 
 Eine detailierte Übersicht zu den Symbolen und deren Funktion erhalten Sie auf dieser Seite:
 [Symbole erklärt](./icons_explained.md)
