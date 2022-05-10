@@ -1,7 +1,7 @@
 ---
 id: SEB_de
 title: Flackernder Bildschirm
-parent: Important Information
+parent: Wichtige Informationen
 nav_order: 4
 ---
 
