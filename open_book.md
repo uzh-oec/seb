@@ -1,8 +1,8 @@
 ---
 id: SEB_de
 title: Open Book Prüfung
-parent: SEB Allgemein
-nav_order: 2
+parent: Wichtige Informationen
+nav_order: 3
 ---
 
 ## Open Book mit Safe Exam Browser (SEB)

@@ -1,8 +1,8 @@
 ---
 id: SEB_de
 title: Symbole erklärt
-parent: SEB Allgemein
-nav_order: 1
+parent: Wichtige Informationen
+nav_order: 2
 ---
 
 ## Symbole im Safe Exam Browser (SEB)

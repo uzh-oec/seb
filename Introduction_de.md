@@ -1,8 +1,8 @@
 ---
 id: SEB_de
 title: SEB Allgemein
-nav_order: 5
-has_children: true
+parent: Wichtige Informationen
+nav_order: 1
 ---
 
 ## Safe Exam Browser (SEB) 
