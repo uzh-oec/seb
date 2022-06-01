@@ -1,5 +1,5 @@
 ---
-id: exam_seb_epis_de
+id: exam_seb_epis_mac
 title: SEB & EPIS mit MacOS
 parent: Prüfung
 nav_order: 5

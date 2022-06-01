@@ -1,5 +1,5 @@
 ---
-id: exam_seb_epis_de
+id: exam_seb_epis_win
 title: SEB & EPIS mit Windows
 parent: Prüfung
 nav_order: 4

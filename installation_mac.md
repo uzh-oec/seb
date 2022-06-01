@@ -1,5 +1,5 @@
 ---
-id: macOS_installation_de
+id: installation_mac
 title: Installation MacOS
 parent: SEB Installation
 nav_order: 3

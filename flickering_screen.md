@@ -1,5 +1,5 @@
 ---
-id: SEB_de
+id: flickering_screen
 title: Flackernder Bildschirm
 parent: Wichtige Informationen
 nav_order: 4

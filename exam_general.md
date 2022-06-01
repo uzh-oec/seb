@@ -1,5 +1,5 @@
 ---
-id: exam_general_de
+id: exam_general
 title: Wichtige Informationen
 parent: Prüfung
 nav_order: 1

@@ -1,5 +1,5 @@
 ---
-id: installation_problems_de
+id: installation_problems
 title: Installationsprobleme
 parent: SEB Installation
 nav_order: 4

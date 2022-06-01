@@ -1,5 +1,5 @@
 ---
-id: additional_instructions_de
+id: additional_instructions
 title: Kamera / Proctoring
 nav_order: 4
 ---

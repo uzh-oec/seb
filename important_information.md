@@ -1,5 +1,5 @@
 ---
-id: SEB_de
+id: important_information
 title: Wichtige Informationen
 has_children: true
 nav_order: 5

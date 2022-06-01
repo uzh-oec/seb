@@ -1,5 +1,5 @@
 ---
-id: windows_installation_de
+id: installation_windows
 title: Installation Windows
 parent: SEB Installation
 nav_order: 2

@@ -1,5 +1,5 @@
 ---
-id: SEB_de
+id: open_book
 title: Open Book Prüfung
 parent: Wichtige Informationen
 nav_order: 3

@@ -1,5 +1,5 @@
 ---
-id: SEB_de
+id: icons_explained
 title: Symbole erklärt
 parent: Wichtige Informationen
 nav_order: 2
