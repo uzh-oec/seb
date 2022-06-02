@@ -43,7 +43,7 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](exam_general)
 * Hat die Prüfung bereits gestartet, finden Sie die Prüfung unter **Live assignments**
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
 
-1. Unten rechts im SEB ist nun auch das **Videoprocotring** unter dem Profil-Symbol aktiv. Bitte machen Sie folgende Anpassungen falls nötig:
+1. Unten rechts im SEB ist nun auch das **Videoproctoring** unter dem Profil-Symbol aktiv. Bitte machen Sie folgende Anpassungen falls nötig:
 * Das Mikrofon ist eingeschaltet (obligatorisch)
 * Den Ton des Gerätes ist ausgeschaltet
 
@@ -53,11 +53,11 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
 [![SEB-Ans-Zoom-Mac](assets/pictures/exam_seb_ans_win/SEB_Ans_Zoom_minimize_mac.png)](SEB_Ans_Zoom_minimize_mac.png)
 **Hinweis**: Je nach Betriebssystem sehen Sie sich selber nicht, folglich ist es am einfachsten, sich zeitgleich mit einem / einer anderen/r Student/in einzuloggen und sich gegenseitig zu bestätigen, dass die Kamera der Gerätes funktioniert
 
-1. Wählen Sie die Start-Schaltfläche (falls die Prüfung noch nicht Life ist, sehen Sie diese **nach** dem Countdown)
-[![SEB-Ans-StartExam](assets/pictures/exam_seb_ans_win/SEB_Ans_startexam.png)](assets/SEB_Ans_startexam.png)
+1. Wählen Sie die Start-Schaltfläche (falls die Prüfung noch nicht live ist, sehen Sie diese **nach** dem Countdown)
+[![SEB-Ans-StartExam](assets/pictures/exam_seb_ans_win/SEB_Ans_startexam.png)](SEB_Ans_startexam.png)
 
 1. Die Prüfung wird kurz geladen
-[![SEB-Ans-Prepexam](assets/pictures/exam_seb_ans_win/SEB_Ans_preptest.png)](assets/SEB_Ans_preptest.png)
+[![SEB-Ans-Prepexam](assets/pictures/exam_seb_ans_win/SEB_Ans_preptest.png)](SEB_Ans_preptest.png)
 
 1. Die Prüfung wird nun angezeigt.
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
