@@ -15,7 +15,7 @@ nav_order: 5
 
 ### Start der Prüfung
 
-Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-oec.github.io/seb/exam_general_de.html){:target="_blank"}
+Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](exam_general)
 
 1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [fs5.epis.uzh.ch](fs5.epis.uzh.ch){:target="_blank"}
 [![SEB-OLAT-Login](assets/SEB_Olat_Login.png)](assets/SEB_Olat_Login.png)
