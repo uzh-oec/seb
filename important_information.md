@@ -5,4 +5,4 @@ has_children: true
 nav_order: 5
 ---
 
-Hier finden Sie wichtige Informationen zu SEB and bekannten Problemen.
+Hier finden Sie wichtige Informationen zu SEB und bekannten Problemen.

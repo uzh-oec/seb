@@ -18,8 +18,12 @@ nav_order: 1
 **Hinweis**: Falls Sie Musik hören, muss die Musik dringend vor der Prüfung ausgeschaltet werden, da diese möglicherweise weiterläuft, sodass bei Problemen während der Prüfung keine Verständigung möglich ist.
 
 Das Starten des SEB erfolgt bei Ans und Olat auf verschiedene Weise, ziehen Sie hierfür bitte die Erläuterung der jeweiligen Supportseiten heran:
+
+**Windows**
 * [Ans & SEB mit Windows](exam_seb_ans_win).
 * [EPIS-OLAT & SEB mit Windows](exam_seb_epis_win).
+
+**Mac OS**
 * [Ans & SEB mit MacOS](exam_seb_ans_mac).
 * [EPIS-OLAT & SEB mit MacOS](exam_seb_epis_mac).
 
