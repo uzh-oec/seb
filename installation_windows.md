@@ -7,8 +7,8 @@ nav_order: 2
 
 ## Installation auf Windows
 
-1. Laden Sie folgende SEB Version für Windows herunter:
-Version 3.3.2, Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+1. Laden Sie die vorgegebene SEB Version für Windows herunter.
+Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
 1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads (Doppelklicken oder rechte Maustaste & Öffnen)
 

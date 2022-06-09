@@ -18,28 +18,28 @@ Bitte stellen Sie sicher, dass Ihre Kamera für die Prüfungsbeaufsichtigung (Pr
 Sollte Ihr Endgerät über **mehrere** Kameras verfügen, ist es wichtig die Kamera auf der **Rückseite des Gerätes** auszuschalten
 
 1. Klicken Sie auf "Start" bzw. auf das "Windows-Symbol" und geben Sie in das Suchfeld "Geräte-Manager" (engl. Device Manager) ein. Klicken Sie auf den Eintrag.
-[![SEB-Camera1](assets/pictures/additional_instructions/SEB-Camera1.png)](assets/SEB-Camera1.png)
+[![SEB-Camera1](assets/pictures/additional_instructions/seb_camera_01.png)](assets/SEB-Camera1.png)
 
 1. Im Fenster "Geräte-Manger" suchen Sie den Eintrag "Systemgeräte" (engl. System Devices). Klicken Sie darauf. 
-[![SEB-Camera2](assets/pictures/additional_instructions/SEB-Camera2.png)](assets/SEB-Camera2.png)
+[![SEB-Camera2](assets/pictures/additional_instructions/seb_camera_02.png)](assets/SEB-Camera2.png)
 
 1. Unterhalb des Eintrags erscheinen alle Systemgeräte. Suchen Sie nach den Kameras des Geräts. 
-[![SEB-Camera3](assets/pictures/additional_instructions/SEB-Camera3.png)](assets/SEB-Camera3.png)
+[![SEB-Camera3](assets/pictures/additional_instructions/seb_camera_03.png)](assets/SEB-Camera3.png)
 
 1. Deaktivieren Sie die Kamera auf der **Rückseite** (engl. Rear camera) des Gerätes, in dem Sie  mit der rechten Maustaste auf den Eintrag dieser Kamera und anschließend auf "deaktiveren" (engl. disable) klicken.
-[![SEB-Camera4](assets/pictures/additional_instructions/SEB-Camera4.png)](SEB-Camera4.png)
+[![SEB-Camera4](assets/pictures/additional_instructions/seb_camera_04.png)](SEB-Camera4.png)
 
 1. Eventuell wird ein Pop-Up angezeigt, welches Sie darauf hinweist, dass Sie die Kamera deaktivieren und somit nicht mehr nutzen können
-[![SEB-Camera5](assets/pictures/additional_instructions/SEB-Camera5.png)](SEB-Camera5.png)
+[![SEB-Camera5](assets/pictures/additional_instructions/seb_camera_05.png)](SEB-Camera5.png)
 
 1. Die Kamera wird nun als "deaktiviert" angezeigt
 
-[![SEB-Camera6](assets/pictures/additional_instructions/SEB-Camera6.png)](SEB-Camera6.png)
+[![SEB-Camera6](assets/pictures/additional_instructions/seb_camera_06.png)](SEB-Camera6.png)
 
 
 
 **Hinweis**: Wenn Sie Ihre Kamera wieder aktivieren wollen, folgen Sie der obigen Anleitung erneut, klicken aber auf "aktivieren" (engl. enable) in Punkt 4
-[![SEB-Camera-Hinweis](assets/pictures/additional_instructions/SEB-Camera_Hinweis.png)](SEB-Camera_Hinweis.png)
+[![SEB-Camera-Hinweis](assets/pictures/additional_instructions/seb_camera_information.png)](SEB-Camera_Hinweis.png)
 
 
 

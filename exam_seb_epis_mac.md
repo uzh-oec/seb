@@ -17,7 +17,7 @@ nav_order: 5
 
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](exam_general)
 
-1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [fs5.epis.uzh.ch](fs5.epis.uzh.ch){:target="_blank"}
+1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [https://fs5.epis.uzh.ch](http://fs5.epis.uzh.ch){:target="_blank"}
 [![SEB-OLAT-Login](assets/pictures/exam_seb_epis_mac/SEB_Olat_Login.png)](SEB_Olat_Login.png)
 
 1. Es erscheint ein Pop-Up, welches die aktuelle Prüfung anzeigt. Darin wird erläutert, dass die Prüfung nur mit dem Safe Exam Browser bearbeitet werden kann. Klicken Sie auf die **Safe Exam Browser Starten** Schaltfläche
