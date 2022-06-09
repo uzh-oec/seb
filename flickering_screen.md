@@ -19,10 +19,10 @@ Zuerst muss die Software gefunden werden, welche das Problem verursacht. Am best
 **Falls es noch besteht**, bedeutet dies, dass die Software automatisch gestartet wird. Versuchen Sie herauszufinden welche Software beim Start Ihres Computers automatisch gestartet wird.
 
 Unter Windows sehen Sie dies in Taskmanager -> Autostart
-[![flickering_screen_autostart_windows](assets/pictures/flickering_screen/autostart_windows.PNG)](flickering_screen_autostart_windows.PNG)
+[![flickering_screen_autostart_windows](assets/pictures/flickering_screen/autostart_windows.PNG)](assets/pictures/flickering_screen/autostart_windows.PNG)
 
 Bei MacOs gehen Sie zu Users & Group -> Login Items
-[![flickering_screen_autostart_macos](assets/pictures/flickering_screen/autostart_macos.PNG)](flickering_screen_autostart_macos.PNG)
+[![flickering_screen_autostart_macos](assets/pictures/flickering_screen/autostart_macos.PNG)](assets/pictures/flickering_screen/autostart_macos.PNG)
 
 Versuchen Sie diese Software zu deaktivieren und testen Sie den SEB nochmals.
 Stellen Sie sicher, dass diese Software während der Prüfung nicht aktiviert ist.

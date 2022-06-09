@@ -18,23 +18,22 @@ nav_order: 5
 Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](exam_general)
 
 1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [https://fs5.epis.uzh.ch](http://fs5.epis.uzh.ch){:target="_blank"}
-[![SEB-OLAT-Login](assets/pictures/exam_seb_epis_mac/SEB_Olat_Login.png)](SEB_Olat_Login.png)
+[![SEB-OLAT-Login](assets/pictures/exam_seb_epis_mac/seb_olat_login.png)](assets/pictures/exam_seb_epis_mac/seb_olat_login.png)
 
 1. Es erscheint ein Pop-Up, welches die aktuelle Prüfung anzeigt. Darin wird erläutert, dass die Prüfung nur mit dem Safe Exam Browser bearbeitet werden kann. Klicken Sie auf die **Safe Exam Browser Starten** Schaltfläche
-[![SEB-Epis-start-Mac](assets/pictures/exam_seb_epis_mac/SEB_Epis_openbrowser.jpg)](SEB_Epis_openbrowser.jpg)
+[![SEB-Epis-start-Mac](assets/pictures/exam_seb_epis_mac/seb_epis_openbrowser.jpg)](assets/pictures/exam_seb_epis_mac/seb_epis_openbrowser.jpg)
 
 1. Ein Fenster zeigt die Applikation **Safe Exam Browser** an um die Prüfung zu starten. Klicken Sie **Link öffnen** / **Open Link**
-[![SEB-Epis-Popup-Mac](assets/pictures/exam_seb_epis_mac/SEB_Epis_popup_mac.png)](SEB_Epis_popup_mac.png)
+[![SEB-Epis-Popup-Mac](assets/pictures/exam_seb_epis_mac/seb_epis_popup_mac.png)](assets/pictures/exam_seb_epis_mac/seb_epis_popup_mac.png)
 
 1. Während der SEB startet, zeigt sich ein Pop-Up, welches darauf hinweist, dass eine Videoüberwachung stattfindet. Drücken Sie **OK**  (es ist durchaus möglich, dass weitere Pop-Ups erscheinen z.B. das Zugreifen auf Kamera & Mikrofon oder das Schliessen einer Applikation)
-[![SEB-Epis-startSEB-Mac](assets/pictures/exam_seb_epis_mac/SEB_Epis_remoteproctoring_mac.png)](SEB_Epis_remoteproctoring_mac.png)
+[![SEB-Epis-startSEB-Mac](assets/pictures/exam_seb_epis_mac/seb_epis_remoteproctoring_mac.png)](assets/pictures/exam_seb_epis_mac/seb_epis_remoteproctoring_mac.png)
 
 1. Als Nächstes lädt der Safe Exam Browser die Prüfungsplattform OLAT und bittet Sie erneut sich einzuloggen. 
-[![SEB-Epis-LoginOlatSEB-Mac](assets/pictures/exam_seb_epis_mac/SEB_Epis_LoginOlatSEB_mac.jpg)](SEB_Epis_LoginOlatSEB_mac.jpg)
+[![SEB-Epis-LoginOlatSEB-Mac](assets/pictures/exam_seb_epis_mac/seb_epis_loginolatseb_mac.jpg)](assets/pictures/exam_seb_epis_mac/seb_epis_loginolatseb_mac.jpg)
 
 1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
-[![SEB-Epis-LoginOlatSEBAAI-Mac](assets/pictures/exam_seb_epis_mac/SEB_Epis_LoginOlatSEBAAI_mac.jpg)](SEB_Epis_LoginOlatSEBAAI_mac.jpg)
-
+[![SEB-Epis-LoginOlatSEBAAI-Mac](assets/pictures/exam_seb_epis_mac/seb_epis_loginolatsebaai_mac.jpg)](assets/pictures/exam_seb_epis_mac/seb_epis_loginolatsebaai_mac.jpg)
 1.  Die Prüfung wird nun angezeigt.
 
 

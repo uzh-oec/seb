@@ -18,26 +18,26 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](exam_general)
 
 1. Loggen Sie sich im Firefox Browser auf OLAT-EPIS mit dem aaiSWITCH Login ein: [https://fs5.epis.uzh.ch](https://fs5.epis.uzh.ch){:target="_blank"}
 
-[![SEB-OLAT-Login](assets/pictures/exam_seb_epis_win/seb_olat_login.png)](SEB_Olat_Login.png)
+[![SEB-OLAT-Login](assets/pictures/exam_seb_epis_win/seb_olat_login.png)](assets/pictures/exam_seb_epis_win/seb_olat_login.png)
 
 1. Es erscheint ein Pop-Up, welches die aktuelle Prüfung anzeigt. Darin wird erläutert, dass die Prüfung nur mit dem Safe Exam Browser bearbeitet werden kann. Klicken Sie auf die **Safe Exam Browser Starten** Schaltfläche
-[![SEB-Epis-start-Win](assets/pictures/exam_seb_epis_win/seb_epis_openbrowser.jpg)](SEB_Epis_openbrowser.jpg)
+[![SEB-Epis-start-Win](assets/pictures/exam_seb_epis_win/seb_epis_openbrowser.jpg)](assets/pictures/exam_seb_epis_win/seb_epis_openbrowser.jpg)
 
 1. Ein Fenster zeigt die Applikation **Safe Exam Browser** an um die Prüfung zu starten. Klicken Sie **Anwendung wählen / Choose Application**
-[![SEB-Epis-Popup-Win](assets/pictures/exam_seb_epis_win/seb_epis_popup_win.png)](SEB_Epis_popup_win.png)
+[![SEB-Epis-Popup-Win](assets/pictures/exam_seb_epis_win/seb_epis_popup_win.png)](assets/pictures/exam_seb_epis_win/seb_epis_popup_win.png)
 
 1. Der SEB startet 
-[![SEB-Ans-start](assets/pictures/exam_seb_epis_win/seb_start.png)](SEB_Ans_start.png)
+[![SEB-Ans-start](assets/pictures/exam_seb_epis_win/seb_start.png)](assets/pictures/exam_seb_epis_win/seb_start.png)
 
 1. Während der SEB startet, zeigt sich ein Pop-Up, welches darauf hinweist, dass ein Videoüberwachung stattfindet. Drücken Sie **OK**  (es ist durchaus möglich, dass weitere Pop-Ups erscheinen z.B. das Zugreifen auf Kamera & Mikrofon oder das Schliessen einer Applikation)
-[![SEB-Epis-startSEB-Win](assets/pictures/exam_seb_epis_win/seb_epis_remoteproctoring_win.png)](SEB_Epis_remoteproctoring_win.png)
+[![SEB-Epis-startSEB-Win](assets/pictures/exam_seb_epis_win/seb_epis_remoteproctoring_win.png)](assets/pictures/exam_seb_epis_win/seb_epis_remoteproctoring_win.png)
 
 1. Als Nächstes lädt der Safe Exam Browser die Prüfungsplattform OLAT und bittet Sie erneut sich einzuloggen.
 
-[![SEB-Epis-LoginOlatSEB-Win](assets/pictures/exam_seb_epis_win/seb_epis_loginolatseb_win.png)](SEB_Epis_LoginOlatSEB_win.png)
+[![SEB-Epis-LoginOlatSEB-Win](assets/pictures/exam_seb_epis_win/seb_epis_loginolatseb_win.png)](assets/pictures/exam_seb_epis_win/seb_epis_loginolatseb_win.png)
 
 1. Bitte loggen Sie sich mit dem SWITCHaai Login ein
-[![SEB-Epis-LoginOlatSEBAAI-Mac](assets/pictures/exam_seb_epis_win/seb_epis_aailogin_win.png)](SEB_Epis_AAILogin_win.png)
+[![SEB-Epis-LoginOlatSEBAAI-Mac](assets/pictures/exam_seb_epis_win/seb_epis_aailogin_win.png)](assets/pictures/exam_seb_epis_win/seb_epis_aailogin_win.png)
 
 1.  Die Prüfung wird nun angezeigt.
 
