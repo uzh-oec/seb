@@ -13,18 +13,18 @@ Download auf der folgenden Seite: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch
 1. Öffnen Sie die heruntergeladene Datei in Ihren Downloads (Doppelklicken oder rechte Maustaste & Öffnen)
 
 1. Wählen Sie die Box «I agree to the license terms and conditions» und drücken Sie «Install»
-[![Windows-Download-4](assets/pictures/installation_windows/download-windows-step4.png)](download-windows-step4.png)
+[![Windows-Download-4](assets/pictures/installation_windows/download-windows-step4.png)](assets/pictures/installation_windows/download-windows-step4.png)
 
 1. Der Safe Exam Browser wird installiert
-[![Windows-Download-5](assets/pictures/installation_windows/download-windows-step5.png)](download-windows-step5.png)
+[![Windows-Download-5](assets/pictures/installation_windows/download-windows-step5.png)](assets/pictures/installation_windows/download-windows-step5.png)
 
 1. Ist der Safe Exam Browser installiert, wird dies wie folgt angezeigt:
-[![Windows-Download-6](assets/pictures/installation_windows/download-windows-step6.png)](download-windows-step6.png)
+[![Windows-Download-6](assets/pictures/installation_windows/download-windows-step6.png)](assets/pictures/installation_windows/download-windows-step6.png)
 
 1. Schliessen Sie das Installationsfenster und suchen Sie in Ihrer Suchfunktion unten links nach «Safe Exam Browser».
 Wenn Sie den Safe Exam Browser sehen, so wurde dieser installiert. **Hinweis**: Ohne Konfigurationsdatei können Sie den SEB nicht starten (es erscheint ein Fehler).
 Um den SEB zu testen, benötigen Sie eine Test-Konfiguration, welche Ihnen meist in Form eines Infrastruktur-Tests von der Prüfungsleitung zur Verfügung gestellt wird.
-[![Windows-Download-7](assets/pictures/installation_windows/download-windows-step7.png)](download-windows-step7.png)
+[![Windows-Download-7](assets/pictures/installation_windows/download-windows-step7.png)](assets/pictures/installation_windows/download-windows-step7.png)
 
 **Hinweis**: Für die Konfiguration wird Ihnen für jede Prüfung eine entsprechende **Konfigurations-Datei** zur Verfügung gestellt. Diese finden Sie hier [https://www.oec.uzh.ch/de/seb](https://www.oec.uzh.ch/de/seb){:target="_blank"}.
 
